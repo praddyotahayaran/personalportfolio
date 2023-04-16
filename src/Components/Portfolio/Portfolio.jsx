@@ -37,7 +37,7 @@ const Portfolio = () => {
         </SwiperSlide>
 
         <SwiperSlide>
-          <a href="https://praddyotahayaran.github.io/cryptoapp/" target={'blank'}>
+          <a href="https://clone-643d8.web.app/" target={'blank'}>
             <img src={port2} alt="" />
           </a>
         </SwiperSlide>

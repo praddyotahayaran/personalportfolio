@@ -21,7 +21,7 @@ const Services = () => {
 
             <div className="awesome">
                 <span style={{color: darkMode? 'white' : ''}}>My Awesome</span>
-                <span>Services</span>
+                <span>Skills</span>
                 <span style={{color: darkMode? 'white' : ''}}>I design & build user interfaces.
                     Lorem ipsum dolor sit amet  <br />consectetur adipisicing  elit.
                     Consequatur velit dignissimos,  <br />neque libero aspernatur
@@ -63,7 +63,7 @@ const Services = () => {
                     <Card
                         emoji={Glasses}
                         heading={"Developer"}
-                        detail={"HTML, CSS, JavaScript, React, lorem"}
+                        detail={"HTML, CSS, JavaScript, React"}
                     />
                 </motion.div>
 
