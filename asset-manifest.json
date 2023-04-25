@@ -1,13 +1,12 @@
 {
   "files": {
     "main.css": "/personalportfolio/static/css/main.56117d3f.css",
-    "main.js": "/personalportfolio/static/js/main.7c82f461.js",
+    "main.js": "/personalportfolio/static/js/main.ed8622b0.js",
+    "static/media/port2.png": "/personalportfolio/static/media/port2.96a75ae0dda7ea9da5f8.png",
     "static/media/port1.png": "/personalportfolio/static/media/port1.d5dc28df501e96247a38.png",
     "static/media/port0.png": "/personalportfolio/static/media/port0.b4f5d60a7a497652820a.png",
-    "static/media/port3.png": "/personalportfolio/static/media/port3.d72c23a3e80f474d4a14.png",
     "static/media/Resume.pdf": "/personalportfolio/static/media/Resume.8e29d0c3553bf4818f27.pdf",
     "static/media/boy.png": "/personalportfolio/static/media/boy.5ca4b670a32b71681d2c.png",
-    "static/media/port2.png": "/personalportfolio/static/media/port2.4a77415aeee8bf5c806b.png",
     "static/media/glassesimoji.png": "/personalportfolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
     "static/media/thumbup.png": "/personalportfolio/static/media/thumbup.e06790ba656f0397cbe5.png",
     "static/media/humble.png": "/personalportfolio/static/media/humble.c8b32b53675e68978981.png",
@@ -17,10 +16,10 @@
     "static/media/glasses.png": "/personalportfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "index.html": "/personalportfolio/index.html",
     "main.56117d3f.css.map": "/personalportfolio/static/css/main.56117d3f.css.map",
-    "main.7c82f461.js.map": "/personalportfolio/static/js/main.7c82f461.js.map"
+    "main.ed8622b0.js.map": "/personalportfolio/static/js/main.ed8622b0.js.map"
   },
   "entrypoints": [
     "static/css/main.56117d3f.css",
-    "static/js/main.7c82f461.js"
+    "static/js/main.ed8622b0.js"
   ]
 }
