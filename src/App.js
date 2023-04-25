@@ -3,13 +3,12 @@ import Experience from './Components/Experience/Experience';
 import Intro from './Components/Intro/Intro';
 import Navbar from './Components/NavBar/Navbar';
 import Portfolio from './Components/Portfolio/Portfolio';
-import Services from './Components/Services/Services';
-import Work from './Components/Work/Work';
-import Testimonials from './Components/Testimonials/Testimonials.jsx';
+// import Work from './Components/Work/Work';
 import Contact from './Components/Contact/Contact.jsx';
 import Footer from './Components/Footer/Footer.jsx';
 import { themeContext } from './Context';
 import { useContext } from 'react';
+import Skills from './Components/Skills/Skills';
 
 function App() {
   const theme = useContext(themeContext);
@@ -22,11 +21,11 @@ function App() {
 
       <Navbar />
       <Intro />
-      <Services />
+      <Skills />
       <Experience />
-      <Work />
+      {/* <Work /> */}
       <Portfolio />
-      <Testimonials />
+      {/* <Testimonials /> */}
       <Contact />
       <Footer />
     </div>

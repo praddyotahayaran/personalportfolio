@@ -81,7 +81,7 @@ const Intro = () => {
 
                     style={{ top: '23.1rem', left: '.9rem' }}
                     className="floatingDiv">
-                    <FloatingDiv image={thumbup} txt1='Best Design' txt2='Award' />
+                    <FloatingDiv image={thumbup} txt1='JavaScript' txt2='React Js' />
                 </motion.div>
 
 

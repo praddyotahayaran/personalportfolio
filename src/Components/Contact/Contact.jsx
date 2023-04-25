@@ -26,7 +26,7 @@ const Contact = () => {
       {/* Heading */}
 
       <div className="contactHeading">
-        <span>Get in Touch</span>
+        <span>Don't be shy! hit me up!👉</span>
         <span>Contact me</span>
       </div>
 
