@@ -4,7 +4,6 @@ import { Swiper, SwiperSlide } from 'swiper/react'
 import port0 from '../../img/port0.png'
 import port1 from '../../img/port1.png'
 import port2 from '../../img/port2.png'
-import port3 from '../../img/port3.png'
 import 'swiper/css'
 
 
@@ -25,7 +24,7 @@ const Portfolio = () => {
         className='portfolioSlider'
       >
         <SwiperSlide>
-          <a href="https://clone-643d8.web.app/" target={'blank'}>
+          <a href="https://new-9ec26.web.app/" target={'blank'}>
             <img src={port2} alt="" />
           </a>
         </SwiperSlide>
