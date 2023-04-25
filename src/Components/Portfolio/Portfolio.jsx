@@ -25,8 +25,8 @@ const Portfolio = () => {
         className='portfolioSlider'
       >
         <SwiperSlide>
-          <a href="https://ecommerceweb.pages.dev/" target={'blank'}>
-            <img src={port0} alt="" />
+          <a href="https://clone-643d8.web.app/" target={'blank'}>
+            <img src={port2} alt="" />
           </a>
         </SwiperSlide>
 
@@ -36,17 +36,13 @@ const Portfolio = () => {
           </a>
         </SwiperSlide>
 
-        <SwiperSlide>
-          <a href="https://clone-643d8.web.app/" target={'blank'}>
-            <img src={port2} alt="" />
-          </a>
-        </SwiperSlide>
 
         <SwiperSlide>
-          <a href="https://praddyotahayaran.github.io/praddyota-amazon/" target={'blank'}>
-            <img src={port3} alt="" />
+          <a href="https://ecommerceweb.pages.dev/" target={'blank'}>
+            <img src={port0} alt="" />
           </a>
         </SwiperSlide>
+        
 
       </Swiper>
     </div>
