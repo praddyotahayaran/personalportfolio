@@ -105,6 +105,7 @@
         transform: scale(.6);
     }
 }
+
 @media screen and (max-width: 480px) {
     .intro {
         flex-direction: column;
