@@ -26,9 +26,13 @@ const Skills = () => {
                 <span>Skills</span>
                 <span style={{ color: darkMode ? 'white' : '' }}>
                 I enjoy making web apps here are my skills.
+                <p>1. Html</p>
+                <p>2. CSS</p>
+                <p>3. JavaScript</p>
+                <p>4. React Js</p>
+                <p>5. Sass</p>
 
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil expedita aliquam perferendis velit eum itaque, sapiente maiores odio accusantium nesciunt veritatis est exercitationem a assumenda, ad autem laboriosam recusandae. Debitis illo dicta, assumenda hic autem iure odio, aperiam itaque omnis incidunt optio, odit exercitationem suscipit ad quaerat? Esse, a culpa.
-                    
+               
                 </span>
                 <a href={Resume} download>
                     <button className="button serviceBtn">Download CV</button>
