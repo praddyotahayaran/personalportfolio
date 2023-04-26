@@ -53,16 +53,16 @@ const Skills = () => {
                         </a>
                     </div>
                     <div className="skillsSecCircle">
-                        <a href="https://en.wikipedia.org/wiki/Sass_(style_sheet_language)"> <img src={Sass} alt="" /></a>
+                        <a href="https://en.wikipedia.org/wiki/Sass_(style_sheet_language)" target='blank'> <img src={Sass} alt="" /></a>
                     </div>
                     <div className="skillsSecCircle">
-                        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src={JavaScript} alt="" /></a>
+                        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target='blank'><img src={JavaScript} alt="" /></a>
                     </div>
                     <div className="skillsSecCircle">
                         <a href="https://react.dev/"><img src={tech} alt="" /></a>
                     </div>
                     <div className="skillsSecCircle">
-                        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src={Html} alt="" /></a>
+                        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target='blank'><img src={Html} alt="" /></a>
                     </div>
                 </motion.div>
 
