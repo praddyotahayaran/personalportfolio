@@ -3,7 +3,6 @@ import Experience from './Components/Experience/Experience';
 import Intro from './Components/Intro/Intro';
 import Navbar from './Components/NavBar/Navbar';
 import Portfolio from './Components/Portfolio/Portfolio';
-// import Work from './Components/Work/Work';
 import Contact from './Components/Contact/Contact.jsx';
 import Footer from './Components/Footer/Footer.jsx';
 import { themeContext } from './Context';
@@ -23,9 +22,7 @@ function App() {
       <Intro />
       <Skills />
       <Experience />
-      {/* <Work /> */}
       <Portfolio />
-      {/* <Testimonials /> */}
       <Contact />
       <Footer />
     </div>

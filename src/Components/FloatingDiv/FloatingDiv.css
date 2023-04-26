@@ -11,3 +11,17 @@
 .floatingDiv>img {
     transform: scale(.4);
 }
+
+@media screen and (max-width: 1350px) {
+    .floatingDiv {
+        width: 14rem;
+    }
+
+    .floatingDiv>img {
+        transform: scale(.3.5);
+    }
+
+    .floatingDiv>span {
+        font-size: 12px;
+    }
+}
