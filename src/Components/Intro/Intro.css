@@ -2,7 +2,6 @@
     display: flex;
     height: 77vh;
     margin-top: 6rem;
-    /* background: red; */
 }
 
 /* Left Side Intro */
@@ -106,6 +105,18 @@
     }
 }
 
+@media screen and (max-width: 900px) {
+    .intro {
+        flex-direction: column;
+        gap: 2rem;
+        height: 64rem;
+    }
+
+    .rightIntro>:nth-child(2){
+        transform: scale(.57);
+    }
+
+}
 @media screen and (max-width: 480px) {
     .intro {
         flex-direction: column;

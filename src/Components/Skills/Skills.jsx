@@ -14,8 +14,6 @@ import techCss from '../../img/CSS.png'
 
 const Skills = () => {
 
-    const transition = { duration: 2, type: 'spring' }
-
     const theme = useContext(themeContext)
     const darkMode = theme.state.darkMode;
     return (
@@ -26,10 +24,11 @@ const Skills = () => {
             <div className="awesome">
                 <span style={{ color: darkMode ? 'white' : '' }}>My Awesome</span>
                 <span>Skills</span>
-                <span style={{ color: darkMode ? 'white' : '' }}>I design & build user interfaces.
-                    Lorem ipsum dolor sit amet  <br />consectetur adipisicing  elit.
-                    Consequatur velit dignissimos,  <br />neque libero aspernatur
-                    tempora quos omnisadipisci
+                <span style={{ color: darkMode ? 'white' : '' }}>
+                I enjoy making web apps here are my skills.
+
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil expedita aliquam perferendis velit eum itaque, sapiente maiores odio accusantium nesciunt veritatis est exercitationem a assumenda, ad autem laboriosam recusandae. Debitis illo dicta, assumenda hic autem iure odio, aperiam itaque omnis incidunt optio, odit exercitationem suscipit ad quaerat? Esse, a culpa.
+                    
                 </span>
                 <a href={Resume} download>
                     <button className="button serviceBtn">Download CV</button>
@@ -50,19 +49,20 @@ const Skills = () => {
                     className="skillsmainCircle" >
 
                     <div className="skillsSecCircle">
-                        <img style={{ height: "8.5rem" }} src={techCss} alt="" />
+                        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target='blank'><img src={techCss} alt="" />
+                        </a>
                     </div>
                     <div className="skillsSecCircle">
-                        <img src={Sass} alt="" />
+                        <a href="https://en.wikipedia.org/wiki/Sass_(style_sheet_language)"> <img src={Sass} alt="" /></a>
                     </div>
                     <div className="skillsSecCircle">
-                        <img src={JavaScript} alt="" />
+                        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src={JavaScript} alt="" /></a>
                     </div>
                     <div className="skillsSecCircle">
-                        <img src={tech} alt="" />
+                        <a href="https://react.dev/"><img src={tech} alt="" /></a>
                     </div>
                     <div className="skillsSecCircle">
-                        <img src={Html} alt="" />
+                        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src={Html} alt="" /></a>
                     </div>
                 </motion.div>
 

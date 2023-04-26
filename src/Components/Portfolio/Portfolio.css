@@ -32,6 +32,7 @@
 }
 
 .portfolioSlider .swiper-slide {
+    margin-right: 2rem;
     width: 20rem;
 }
 

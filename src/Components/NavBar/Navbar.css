@@ -20,9 +20,9 @@
 
 .rightNav {
     display: flex;
-    flex-direction: row;
-    flex: 1;
+    /* flex: 1; */
     align-items: center;
+    gap: 3rem;
     justify-content: center;
     font-weight: 400;
 }
@@ -38,6 +38,13 @@
     list-style: none;
     cursor: pointer;
 }
+
+@media screen and (max-width: 910px) {
+    .navList {
+        display: none;
+    }
+}
+
 
 
 @media screen and (max-width: 480px) {
