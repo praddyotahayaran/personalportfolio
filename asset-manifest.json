@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/personalportfolio/static/css/main.217b3b3b.css",
-    "main.js": "/personalportfolio/static/js/main.6f701bd7.js",
+    "main.js": "/personalportfolio/static/js/main.099d5d59.js",
     "static/media/port2.png": "/personalportfolio/static/media/port2.52b2e49513c08b067761.png",
     "static/media/port1.png": "/personalportfolio/static/media/port1.d5dc28df501e96247a38.png",
     "static/media/javaScript.webp": "/personalportfolio/static/media/javaScript.cfef9b98f834381eb903.webp",
     "static/media/port0.png": "/personalportfolio/static/media/port0.b4f5d60a7a497652820a.png",
-    "static/media/Resume.pdf": "/personalportfolio/static/media/Resume.8e29d0c3553bf4818f27.pdf",
+    "static/media/Resume.pdf": "/personalportfolio/static/media/Resume.c3c904a38688005134f8.pdf",
     "static/media/CSS.png": "/personalportfolio/static/media/CSS.8f26a73aded291c06fd1.png",
     "static/media/boy.png": "/personalportfolio/static/media/boy.5ca4b670a32b71681d2c.png",
     "static/media/glassesimoji.png": "/personalportfolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
@@ -18,10 +18,10 @@
     "static/media/Vector2.png": "/personalportfolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
     "index.html": "/personalportfolio/index.html",
     "main.217b3b3b.css.map": "/personalportfolio/static/css/main.217b3b3b.css.map",
-    "main.6f701bd7.js.map": "/personalportfolio/static/js/main.6f701bd7.js.map"
+    "main.099d5d59.js.map": "/personalportfolio/static/js/main.099d5d59.js.map"
   },
   "entrypoints": [
     "static/css/main.217b3b3b.css",
-    "static/js/main.6f701bd7.js"
+    "static/js/main.099d5d59.js"
   ]
 }
